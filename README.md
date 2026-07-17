@@ -167,8 +167,18 @@ Use these resources to make your README more useful first, then more memorable.
 ## Translations
 
 Translations are welcome, especially small PRs that translate one section at a
-time. Current requested languages include:
+time.
 
+Starter translations:
+
+- 🇩🇰 [Danish](translations/README.da.md)
+- 🇪🇸 [Spanish](translations/README.es.md)
+- 🇫🇷 [French](translations/README.fr.md)
+- 🇯🇵 [Japanese](translations/README.ja.md)
+
+Requested languages:
+
+- 🇩🇰 Danish
 - 🇨🇳 Chinese
 - 🇩🇪 German
 - 🇸🇪 Swedish
