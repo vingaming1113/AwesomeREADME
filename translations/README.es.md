@@ -6,6 +6,10 @@ pantalla y otros detalles que hacen que un repositorio sea más claro.
 
 Haz que tu README sea útil primero y bonito después.
 
+> Esta traducción todavía no está terminada. Es una buena excusa para hacer tu
+> primera contribución: traduce una sección, mejora el texto o agrega un recurso
+> que falte.
+
 ## Inicio Rápido
 
 - 📘 [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - Guía oficial de GitHub sobre qué debe comunicar un README.

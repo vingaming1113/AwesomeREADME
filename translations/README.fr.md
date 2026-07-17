@@ -7,6 +7,10 @@ clair.
 
 Rends ton README utile d'abord, puis agréable à regarder.
 
+> Cette traduction n'est pas encore terminée. C'est une bonne occasion de faire
+> une première contribution: traduire une section, améliorer le texte ou ajouter
+> une ressource manquante.
+
 ## Démarrage Rapide
 
 - 📘 [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - La documentation officielle de GitHub sur le rôle d'un README.

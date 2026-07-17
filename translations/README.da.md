@@ -6,6 +6,10 @@ detaljer, der gør et repository nemmere at forstå.
 
 Brug ressourcerne til at gøre din README nyttig først og pæn bagefter.
 
+> Denne oversættelse er ikke færdig endnu. Det er en god anledning til at lave
+> dit første bidrag: oversæt en sektion, forbedr formuleringerne, eller tilføj
+> en manglende ressource.
+
 ## Hurtig Start
 
 - 📘 [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) - GitHubs egen forklaring af, hvad en README bør fortælle.
