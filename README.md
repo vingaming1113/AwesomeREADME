@@ -47,6 +47,7 @@ Use these resources to make your README more useful first, then more memorable.
 - [Community and Project Files](#community-and-project-files)
 - [Quality Checklist](#quality-checklist)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Official GitHub References
 
@@ -179,3 +180,7 @@ When adding a resource, use this format:
 ```markdown
 - [Resource Name](https://example.com/) - Short, practical description.
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
