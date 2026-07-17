@@ -34,6 +34,7 @@ Use these resources to make your README more useful first, then more memorable.
 
 ## Contents
 
+- [Translations](#translations)
 - [Official GitHub References](#official-github-references)
 - [README Guides and Templates](#readme-guides-and-templates)
 - [Profile README Inspiration](#profile-readme-inspiration)
@@ -46,9 +47,43 @@ Use these resources to make your README more useful first, then more memorable.
 - [Screenshots and Media](#screenshots-and-media)
 - [Community and Project Files](#community-and-project-files)
 - [Quality Checklist](#quality-checklist)
-- [Translations](#translations)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Translations
+
+Translations are welcome, especially small PRs that translate one section at a
+time.
+
+Starter translations:
+
+- 🇩🇰 [Danish](translations/README.da.md)
+- 🇪🇸 [Spanish](translations/README.es.md)
+- 🇫🇷 [French](translations/README.fr.md)
+- 🇯🇵 [Japanese](translations/README.ja.md)
+
+Requested languages:
+
+- 🇩🇰 Danish
+- 🇨🇳 Chinese
+- 🇩🇪 German
+- 🇸🇪 Swedish
+- 🇵🇹 Portuguese
+- 🇪🇸 Spanish
+- 🇫🇷 French
+- 🇮🇹 Italian
+- 🇳🇱 Dutch
+- 🇵🇱 Polish
+- 🇺🇦 Ukrainian
+- 🇯🇵 Japanese
+- 🇰🇷 Korean
+- 🇮🇳 Hindi
+- 🇸🇦 Arabic
+- 🇮🇩 Indonesian
+- 🇹🇷 Turkish
+- 🇻🇳 Vietnamese
+
+If you know another language, feel free to add it or open a translation PR.
 
 ## Official GitHub References
 
@@ -163,41 +198,6 @@ Use these resources to make your README more useful first, then more memorable.
 - Add alt text for images and meaningful labels for links.
 - Test README links and generated cards after major changes.
 - Keep dynamic stats self-hosted when uptime, privacy, or rate limits matter.
-
-## Translations
-
-Translations are welcome, especially small PRs that translate one section at a
-time.
-
-Starter translations:
-
-- 🇩🇰 [Danish](translations/README.da.md)
-- 🇪🇸 [Spanish](translations/README.es.md)
-- 🇫🇷 [French](translations/README.fr.md)
-- 🇯🇵 [Japanese](translations/README.ja.md)
-
-Requested languages:
-
-- 🇩🇰 Danish
-- 🇨🇳 Chinese
-- 🇩🇪 German
-- 🇸🇪 Swedish
-- 🇵🇹 Portuguese
-- 🇪🇸 Spanish
-- 🇫🇷 French
-- 🇮🇹 Italian
-- 🇳🇱 Dutch
-- 🇵🇱 Polish
-- 🇺🇦 Ukrainian
-- 🇯🇵 Japanese
-- 🇰🇷 Korean
-- 🇮🇳 Hindi
-- 🇸🇦 Arabic
-- 🇮🇩 Indonesian
-- 🇹🇷 Turkish
-- 🇻🇳 Vietnamese
-
-If you know another language, feel free to add it or open a translation PR.
 
 ## Contributing
 
