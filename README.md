@@ -57,31 +57,31 @@ time.
 
 Starter translations:
 
-- 🇩🇰 [Danish](translations/README.da.md)
-- 🇪🇸 [Spanish](translations/README.es.md)
-- 🇫🇷 [French](translations/README.fr.md)
-- 🇯🇵 [Japanese](translations/README.ja.md)
+- 🇩🇰 [Danish](translations/README.da.md) - `20%`
+- 🇪🇸 [Spanish](translations/README.es.md) - `20%`
+- 🇫🇷 [French](translations/README.fr.md) - `20%`
+- 🇯🇵 [Japanese](translations/README.ja.md) - `20%`
 
 Requested languages:
 
-- 🇩🇰 Danish
-- 🇨🇳 Chinese
-- 🇩🇪 German
-- 🇸🇪 Swedish
-- 🇵🇹 Portuguese
-- 🇪🇸 Spanish
-- 🇫🇷 French
-- 🇮🇹 Italian
-- 🇳🇱 Dutch
-- 🇵🇱 Polish
-- 🇺🇦 Ukrainian
-- 🇯🇵 Japanese
-- 🇰🇷 Korean
-- 🇮🇳 Hindi
-- 🇸🇦 Arabic
-- 🇮🇩 Indonesian
-- 🇹🇷 Turkish
-- 🇻🇳 Vietnamese
+- 🇩🇰 Danish - `20%`
+- 🇨🇳 Chinese - `0%`
+- 🇩🇪 German - `0%`
+- 🇸🇪 Swedish - `0%`
+- 🇵🇹 Portuguese - `0%`
+- 🇪🇸 Spanish - `20%`
+- 🇫🇷 French - `20%`
+- 🇮🇹 Italian - `0%`
+- 🇳🇱 Dutch - `0%`
+- 🇵🇱 Polish - `0%`
+- 🇺🇦 Ukrainian - `0%`
+- 🇯🇵 Japanese - `20%`
+- 🇰🇷 Korean - `0%`
+- 🇮🇳 Hindi - `0%`
+- 🇸🇦 Arabic - `0%`
+- 🇮🇩 Indonesian - `0%`
+- 🇹🇷 Turkish - `0%`
+- 🇻🇳 Vietnamese - `0%`
 
 If you know another language, feel free to add it or open a translation PR.
 
