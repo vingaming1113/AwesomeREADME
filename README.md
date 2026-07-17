@@ -164,9 +164,15 @@ Use these resources to make your README more useful first, then more memorable.
 
 ## Contributing
 
-Contributions are welcome. Please keep additions focused on README creation,
-profile README polish, documentation visuals, badges, automation, or project
-community files.
+New contributors are very welcome. Adding one useful README resource can take
+five minutes or less:
+
+1. Find a resource that helps people improve a profile or project README.
+2. Add it to the best matching section.
+3. Open a pull request with a short note about why it belongs here.
+
+Please keep additions focused on README creation, profile README polish,
+documentation visuals, badges, automation, or project community files.
 
 When adding a resource, use this format:
 
